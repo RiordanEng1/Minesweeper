@@ -16,6 +16,7 @@
 		FA8EF6C7225D0899009439BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA8EF6C6225D0899009439BF /* Assets.xcassets */; };
 		FA8EF6CA225D0899009439BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8EF6C8225D0899009439BF /* LaunchScreen.storyboard */; };
 		FA8EF6D5225D0899009439BF /* MinesweeperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8EF6D4225D0899009439BF /* MinesweeperTests.swift */; };
+		FA8EF6E0225D0A5A009439BF /* Tile.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8EF6DF225D0A5A009439BF /* Tile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		FA8EF6D0225D0899009439BF /* MinesweeperTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MinesweeperTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA8EF6D4225D0899009439BF /* MinesweeperTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinesweeperTests.swift; sourceTree = "<group>"; };
 		FA8EF6D6225D0899009439BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA8EF6DF225D0A5A009439BF /* Tile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				FA8EF6BB225D0898009439BF /* GameScene.sks */,
 				FA8EF6BD225D0898009439BF /* Actions.sks */,
 				FA8EF6BF225D0898009439BF /* GameScene.swift */,
+				FA8EF6DF225D0A5A009439BF /* Tile.swift */,
 				FA8EF6C1225D0898009439BF /* GameViewController.swift */,
 				FA8EF6C3225D0898009439BF /* Main.storyboard */,
 				FA8EF6C6225D0899009439BF /* Assets.xcassets */,
@@ -211,6 +214,7 @@
 				FA8EF6C0225D0898009439BF /* GameScene.swift in Sources */,
 				FA8EF6C2225D0898009439BF /* GameViewController.swift in Sources */,
 				FA8EF6BA225D0898009439BF /* AppDelegate.swift in Sources */,
+				FA8EF6E0225D0A5A009439BF /* Tile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
